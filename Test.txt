@@ -4,3 +4,6 @@ This is a msg
 
 ## Local Development
 1. Open index.html in browser
+
+## More development in New Feature Branch
+1. See below in my branch.
